@@ -6,4 +6,4 @@ Implementation of three C++ classes to measure the execution time/code performan
 
 # How to use
 To reuse it in your projects, download/add the file "CppCheck.h" to your project folder and #include "CppCheck.h".                          
-In App.cpp you will find example how to use each class
+In App.cpp you will find example how to use each class.
