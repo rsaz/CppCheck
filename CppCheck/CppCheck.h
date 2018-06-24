@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 // CppCheck.h  --  Three different simple implementations of measuring
-//				   execution time/performance of your code in C++.
+//		   execution time/performance of your code in C++.
 //
 // Copyright (C) 2018 by Richard Zampieri <br.developer@gmail.com>
 //
